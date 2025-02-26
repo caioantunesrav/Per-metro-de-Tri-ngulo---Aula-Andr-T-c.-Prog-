@@ -1,1 +1,1 @@
-# Per-metro-de-Tri-ngulo---Aula-Andr-T-c.-Prog-
+Perimetro de triangulo - Aula André (téc. prog)
